@@ -1,1 +1,12 @@
 # Airfoil_Recon_GNN
+## Reconstruction of flowfield around airfoils using surface pressure data
+
+### 1. Download training dataset
+```
+wget "https://zenodo.org/records/14629208/files/train_dataset.zip"
+```
+
+### 2. Install anaconda environment
+```
+wget "https://zenodo.org/records/14629208/files/train_dataset.zip"
+```
